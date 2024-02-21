@@ -1,1 +1,1 @@
-# thinking-algorithmically-problems
+# algorithmic-thinking-problems
